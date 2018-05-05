@@ -1,0 +1,5 @@
+F:\Automatically-created-Test\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\Automatically-created-Test\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\Automatically-created-Test\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\Automatically-created-Test\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\Automatically-created-Test\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
